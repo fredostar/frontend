@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function App() extends Component{
   return (
 
     <div class="card">
