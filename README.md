@@ -14,11 +14,11 @@ Changez ton repertoire de travail vers le repertoire du project:
 
 Installer npm modules:
 
-`$ npm install``
+`$ npm install`
 
 Lancez l'application:
 
-`$ npm start
+`$ npm start`
 
 # Construit avec 
 
