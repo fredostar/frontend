@@ -7,9 +7,8 @@ function App() {
 
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Steve Jobs</h5>
-        <h6 class="card-subtitle mb-2 text-muted">steve@apple.com</h6>
-        <p class ="card-text">Hello boy, on est la !</p>
+        <h5 class="card-title">Mon titre</h5>
+        <p class ="card-text">Hello, voici mon post</p>
       </div>
     </div>
   );
