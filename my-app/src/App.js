@@ -10,7 +10,7 @@ class App extends Component{
   }
 
   componentDidMount(){
-    fetch('https://jsonplaceholder.typicode.com/posts')
+    fetch('localhost:8080/posts')
     .then(res => res.json())
     .then((data) => {
 
@@ -18,7 +18,6 @@ class App extends Component{
 
     }).catch(console.log)
   }
-
 
   render () {
    return (<Posts posts={this.state.posts} />);
